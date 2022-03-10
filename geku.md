@@ -45,7 +45,7 @@ cd staking_deposit-cli-e2a7c94-linux-amd64/
 - "Connect to MetaMask"
 - Extract data from the deposit-data-*.json created during `./deposit new-mnemonic`
   - n.b. you need to ad `0x` in front of all hex data.
-  - Deposiy 32 ETH
+  - Deposit 32 ETH
 - Submit the transaction to make the deposit
 
 # Create sandbox
